@@ -1,2 +1,2 @@
 # epubkit
-EPUB CLI
+EPUB CLI written in Go
